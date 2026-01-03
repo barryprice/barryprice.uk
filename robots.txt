@@ -1,0 +1,4 @@
+Sitemap: https://barryprice.uk/sitemapindex.xml
+
+User-Agent: *
+Host: barryprice.uk
