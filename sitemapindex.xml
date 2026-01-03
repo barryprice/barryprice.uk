@@ -6,15 +6,11 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://barryprice.uk/galleries/rss.xml</loc>
-  <lastmod>2026-01-03T14:59:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://barryprice.uk/rss.xml</loc>
-  <lastmod>2026-01-03T14:49:00Z</lastmod>
+  <lastmod>2026-01-03T15:23:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://barryprice.uk/sitemap.xml</loc>
-  <lastmod>2026-01-03T14:59:00Z</lastmod>
+  <lastmod>2026-01-03T15:23:00Z</lastmod>
  </sitemap>
 </sitemapindex>
