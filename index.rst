@@ -18,7 +18,7 @@ Cheers!
 
 ::
 
-  use Lingua::Romana::Perligata; # Barry Price - https://www.barryprice.co.uk/
+  use Lingua::Romana::Perligata; # Barry Price - https://barryprice.uk/
   da pis Just tum another tum Perl tum hacker. dum pis decapitamentum damentum
   po fac sic pum scribe egresso. nisi bum tum tres aequalitam fac sic lacunam
   scribe egresso. cis. bo preincresce. cis. XLIV indementum scribe egresso.
